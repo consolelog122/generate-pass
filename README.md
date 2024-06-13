@@ -1,0 +1,2 @@
+# generate-pass
+password acak
